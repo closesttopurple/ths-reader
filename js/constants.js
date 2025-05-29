@@ -4,6 +4,6 @@
 */
 export function homeURL() {return           "https://reader.closesttopurple.org/"}
 export function readerURL() {return         "https://reader.closesttopurple.org/read.html"}
-export function booksURL() {return          "https://reader.closesttopurple.org/library/"}
+export function booksURL() {return          "https://reader.closesttopurple.org/books/"}
 export function websiteName() {return       "THE HUMAN SERVER"}
 export function defaultLanguage() {return   "en"}
