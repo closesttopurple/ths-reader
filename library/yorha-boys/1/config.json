@@ -1,0 +1,62 @@
+{
+  "numPages": 360,
+  "firstPagesDouble": false,
+  "disallowDoublePage": true,
+  "bookmarks": [
+    {
+      "name": "Cover",
+      "type": "chapter",
+      "page": 1
+    },
+    {
+      "name": "Prologue",
+      "type": "chapter",
+      "page": 6
+    },
+    {
+      "name": "Chapter 1",
+      "type": "chapter",
+      "page": 30
+    },
+    {
+      "name": "Chapter 2",
+      "type": "chapter",
+      "page": 48
+    },
+    {
+      "name": "Chapter 3",
+      "type": "chapter",
+      "page": 69
+    },
+    {
+      "name": "Chapter 4",
+      "type": "chapter",
+      "page": 94
+    },
+    {
+      "name": "Chapter 5",
+      "type": "chapter",
+      "page": 172
+    },
+    {
+      "name": "Chapter 6",
+      "type": "chapter",
+      "page": 21
+    },
+    {
+      "name": "Epilogue",
+      "type": "chapter",
+      "page": 280
+    },
+    {
+      "name": "Flashback",
+      "type": "chapter",
+      "page": 286
+    },
+    {
+      "name": "A Treasure Hunt in 1194x",
+      "type": "chapter",
+      "page": 317
+    }
+  ]
+}

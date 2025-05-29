@@ -1,0 +1,32 @@
+{
+  "numPages": 180,
+  "firstPagesDouble": false,
+  "disallowDoublePage": true,
+  "bookmarks": [
+    {
+      "name": "Cover",
+      "type": "chapter",
+      "page": 1
+    },
+    {
+      "name": "Chapter 10",
+      "type": "chapter",
+      "page": 5
+    },
+    {
+      "name": "Chapter 11",
+      "type": "chapter",
+      "page": 41
+    },
+    {
+      "name": "Chapter 12",
+      "type": "chapter",
+      "page": 85
+    },
+    {
+      "name": "Chapter 13",
+      "type": "chapter",
+      "page": 127
+    }
+  ]
+}
