@@ -1,5 +1,5 @@
 body {
-  --next-previous-page-width: 30%; /* Must be between 0% and 50% */
+  --next-previous-page-width: 50%; /* Must be between 0% and 50% */
   --footer-height: 4em;
   /*
   background: var(--background-gradient), var(--background-image);
