@@ -1,0 +1,12 @@
+{
+  "numPages": 180,
+  "firstPagesDouble": false,
+  "disallowDoublePage": false,
+  "bookmarks": [
+    {
+      "name": "Chapter 1",
+      "type": "chapter",
+      "page": 1
+    }
+  ]
+}
