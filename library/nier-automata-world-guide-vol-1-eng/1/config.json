@@ -1,17 +1,12 @@
 {
-  "numPages": 65,
+  "numPages": 196,
   "firstPagesDouble": false,
-  "disallowDoublePage": false,
+  "disallowDoublePage": true,
   "bookmarks": [
     {
       "name": "Chapter 1",
       "type": "chapter",
       "page": 1
-    },
-    {
-      "name": "Chapter 2",
-      "type": "chapter",
-      "page": 42
     }
   ]
 }

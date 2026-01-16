@@ -1,7 +1,7 @@
 {
   "numPages": 337,
   "firstPagesDouble": false,
-  "disallowDoublePage": true,
+  "disallowDoublePage": false,
   "bookmarks": [
     {
       "name": "Chapter 1",
