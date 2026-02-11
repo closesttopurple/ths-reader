@@ -1,0 +1,12 @@
+{
+  "numPages": 406,
+  "firstPagesDouble": false,
+  "disallowDoublePage": true,
+  "bookmarks": [
+    {
+      "name": "Cover",
+      "type": "chapter",
+      "page": 1
+    }
+  ]
+}
