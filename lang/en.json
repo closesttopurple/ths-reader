@@ -28,7 +28,7 @@
 
   "readPage":
   {
-    "chapter": "Chapter",
+    "chapter": "",
     "configMenu":
     {
       "pageWidthContainer": "Page width",

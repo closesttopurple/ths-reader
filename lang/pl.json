@@ -28,7 +28,7 @@
 
   "readPage":
   {
-    "chapter": "Rozdział",
+    "chapter": "",
     "configMenu":
     {
       "pageWidthContainer": "Szerokość strony",

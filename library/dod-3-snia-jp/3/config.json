@@ -1,0 +1,52 @@
+{
+  "numPages": 197,
+  "firstPagesDouble": false,
+  "disallowDoublePage": true,
+  "bookmarks": [
+    {
+      "name": "Cover",
+      "type": "chapter",
+      "page": 1
+    },
+    {
+      "name": "Chapter 14",
+      "type": "chapter",
+      "page": 5
+    },
+    {
+      "name": "Chapter 15",
+      "type": "chapter",
+      "page": 28
+    },
+    {
+      "name": "Chapter 16",
+      "type": "chapter",
+      "page": 51
+    },
+    {
+      "name": "Chapter 17",
+      "type": "chapter",
+      "page": 77
+    },
+    {
+      "name": "Chapter 18",
+      "type": "chapter",
+      "page": 101
+    },
+    {
+      "name": "Chapter 19",
+      "type": "chapter",
+      "page": 125
+    },
+    {
+      "name": "Chapter 20",
+      "type": "chapter",
+      "page": 147
+    },
+    {
+      "name": "Final Chapter",
+      "type": "chapter",
+      "page": 173
+    }
+  ]
+}

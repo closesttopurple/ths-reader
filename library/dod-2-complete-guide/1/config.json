@@ -1,7 +1,7 @@
 {
   "numPages": 406,
   "firstPagesDouble": false,
-  "disallowDoublePage": true,
+  "disallowDoublePage": false,
   "bookmarks": [
     {
       "name": "Cover",

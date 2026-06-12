@@ -676,7 +676,7 @@ function applyLanguage() {
   chapterSelection.innerHTML = "";
   for (let i = 0; i < getChapterCount(); i++) {
     const option = document.createElement("option");
-    option.text = LCONFIG.readPage.chapter + " " + (i + 1).toString();
+    option.text = (VCONFIG && VCONFIG.bookmarks && VCONFIG.bookmarks[i]) ? VCONFIG.bookmarks[i].name : "" + (i + 1).toString();
     chapterSelection.add(option);
   }
   chapterSelection.selectedIndex = currentChapterSelection;
@@ -775,11 +775,11 @@ function getDOMElements() {
 
 function setBookTypeConfig() {
   BOOKTYPE = {
-    "useDoublePage": false,
-    "bookFoldButton": false,
-    "sidePagesButton": false,
-    "lightingButton": false,
-    "paperTextureButton": false,
+    "useDoublePage": true,
+    "bookFoldButton": true,
+    "sidePagesButton": true,
+    "lightingButton": true,
+    "paperTextureButton": true,
     "bookShadowButton": false,
     "touchAction": "none"
   }
@@ -794,7 +794,7 @@ function setBookTypeConfig() {
       break;
     case "manga":
     case "book":
-      BOOKTYPE.useDoublePage = true;
+      BOOKTYPE.useDoublePage = false;
       BOOKTYPE.bookFoldButton = true;
       BOOKTYPE.sidePagesButton = true;
       BOOKTYPE.lightingButton = true;
