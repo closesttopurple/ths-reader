@@ -1,7 +1,6 @@
 {
-  "numPages": 187,
+  "numPages": 195,
   "firstPagesDouble": false,
-  "disallowDoublePage": true,
   "bookmarks": [
     {
       "name": "Cover",
@@ -21,27 +20,27 @@
     {
       "name": "Chapter 9",
       "type": "chapter",
-      "page": 59
+      "page": 60
     },
     {
       "name": "Chapter 10",
       "type": "chapter",
-      "page": 86
+      "page": 88
     },
     {
       "name": "Chapter 11",
       "type": "chapter",
-      "page": 110
+      "page": 114
     },
     {
       "name": "Chapter 12",
       "type": "chapter",
-      "page": 139
+      "page": 144
     },
     {
       "name": "Chapter 13",
       "type": "chapter",
-      "page": 164
+      "page": 170
     }
   ]
 }

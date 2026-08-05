@@ -1,0 +1,46 @@
+{
+  "numPages": 219,
+  "firstPagesDouble": false,
+  "bookmarks": [
+    {
+      "name": "Cover",
+      "type": "chapter",
+      "page": 1
+    },
+    {
+      "name": "Chapter 11",
+      "type": "chapter",
+      "page": 5
+    },
+    {
+      "name": "Chapter 12",
+      "type": "chapter",
+      "page": 37
+    },
+    {
+      "name": "Chapter 13",
+      "type": "chapter",
+      "page": 71
+    },
+    {
+      "name": "Chapter 14",
+      "type": "chapter",
+      "page": 105
+    },
+    {
+      "name": "Chapter 15",
+      "type": "chapter",
+      "page": 135
+    },
+    {
+      "name": "Chapter 16",
+      "type": "chapter",
+      "page": 171
+    },
+    {
+      "name": "Volume End",
+      "type": "chapter",
+      "page": 211
+    }
+  ]
+}

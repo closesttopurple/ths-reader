@@ -1,7 +1,6 @@
 {
-  "numPages": 197,
+  "numPages": 203,
   "firstPagesDouble": false,
-  "disallowDoublePage": true,
   "bookmarks": [
     {
       "name": "Cover",
@@ -21,32 +20,32 @@
     {
       "name": "Chapter 16",
       "type": "chapter",
-      "page": 51
+      "page": 52
     },
     {
       "name": "Chapter 17",
       "type": "chapter",
-      "page": 77
+      "page": 78
     },
     {
       "name": "Chapter 18",
       "type": "chapter",
-      "page": 101
+      "page": 104
     },
     {
       "name": "Chapter 19",
       "type": "chapter",
-      "page": 125
+      "page": 128
     },
     {
       "name": "Chapter 20",
       "type": "chapter",
-      "page": 147
+      "page": 152
     },
     {
       "name": "Final Chapter",
       "type": "chapter",
-      "page": 173
+      "page": 178
     }
   ]
 }

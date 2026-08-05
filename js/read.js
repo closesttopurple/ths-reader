@@ -794,7 +794,7 @@ function setBookTypeConfig() {
       break;
     case "manga":
     case "book":
-      BOOKTYPE.useDoublePage = false;
+      BOOKTYPE.useDoublePage = true;
       BOOKTYPE.bookFoldButton = true;
       BOOKTYPE.sidePagesButton = true;
       BOOKTYPE.lightingButton = true;

@@ -1,0 +1,47 @@
+{
+  "numPages": 205,
+  "firstPagesDouble": false,
+  "disallowDoublePage": false,
+  "bookmarks": [
+    {
+      "name": "Cover",
+      "type": "chapter",
+      "page": 1
+    },
+    {
+      "name": "Prologue",
+      "type": "chapter",
+      "page": 5
+    },
+    {
+      "name": "Chapter 1",
+      "type": "chapter",
+      "page": 18
+    },
+    {
+      "name": "Chapter 2",
+      "type": "chapter",
+      "page": 61
+    },
+    {
+      "name": "Chapter 3",
+      "type": "chapter",
+      "page": 89
+    },
+    {
+      "name": "Chapter 4",
+      "type": "chapter",
+      "page": 121
+    },
+    {
+      "name": "Chapter 5",
+      "type": "chapter",
+      "page": 157
+    },
+    {
+      "name": "Volume End",
+      "type": "chapter",
+      "page": 198
+    }
+  ]
+}

@@ -1,7 +1,6 @@
 {
-  "numPages": 199,
+  "numPages": 201,
   "firstPagesDouble": false,
-  "disallowDoublePage": true,
   "bookmarks": [
     {
       "name": "Cover",
@@ -16,7 +15,7 @@
     {
       "name": "Chapter 2",
       "type": "chapter",
-      "page": 53
+      "page": 52
     },
     {
       "name": "Chapter 3",
