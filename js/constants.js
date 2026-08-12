@@ -5,7 +5,7 @@
 export function homeURL() {return           "https://reader.thehumanserver.org/"}
 export function readerURL() {return         "https://reader.thehumanserver.org/read.html"}
 export function booksURL() {return          "https://reader.thehumanserver.org/library/"}
-export function websiteName() {return       "THE HUMAN SERVER"}
+export function websiteName() {return       "THS READER"}
 
 export function defaultLanguage() {return   "en"}
 
